@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-   /* public void delForm(View v){
+    public void delForm(View v){
 
         Intent i = new Intent (getApplicationContext(), delTsk.class);
         startActivity(i);
@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
         finish();
 
     }
-*/
+
 
     public void btnShwDbData(View v)
     {
